@@ -99,3 +99,13 @@ The datasets (`Agrofood_co2_emission.csv`, `Agrofood_co2_emission11.csv`) includ
 * Policy-making for climate-friendly farming
 
 ---
+
+## 🛠️ Tech Stack
+
+* **Python 3.x**
+* **Pandas, NumPy, Matplotlib, Seaborn**
+* **Scikit-learn**
+* **Jupyter Notebook**
+
+---
+
