@@ -23,3 +23,47 @@ The goal is to:
 
 ---
 
+## 📂 Repository Structure
+
+```
+📦 Agri-food-CO2-emission-using-regression
+ ┣ 📜 Agri-food CO2 emission using regression.ipynb   # Main Jupyter notebook
+ ┣ 📜 Agri-food CO2 emission using regression.py      # Python script
+ ┣ 📜 Agrofood_co2_emission.csv                      # Dataset 1
+ ┣ 📜 Agrofood_co2_emission11.csv                    # Dataset 2
+ ┣ 📜 README.md                                      # Project documentation
+ ┣ 📜 Untitled-1.ipynb                               # Additional notebook
+ ┣ 📜 Untitled-2.ipynb                               # Additional notebook
+```
+
+---
+
+## ⚙️ Installation & Usage
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/muhammadnouman911/Agri-food-CO2-emission-using-regression.git
+   cd Agri-food-CO2-emission-using-regression
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the notebook:
+
+   ```bash
+   jupyter notebook "Agri-food CO2 emission using regression.ipynb"
+   ```
+
+4. Or execute the script directly:
+
+   ```bash
+   python "Agri-food CO2 emission using regression.py"
+   ```
+
+---
+
