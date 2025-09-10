@@ -67,3 +67,35 @@ The goal is to:
 
 ---
 
+## 📊 Dataset
+
+The datasets (`Agrofood_co2_emission.csv`, `Agrofood_co2_emission11.csv`) include agricultural factors and their associated **CO₂ emissions**.
+
+* Data preprocessing & cleaning applied
+* Feature engineering for regression models
+
+---
+
+## 🧠 Models Used
+
+* **Linear Regression**
+* **Multiple Regression**
+* (Extendable to **Polynomial / Ridge / Lasso / Random Forest Regression**)
+
+---
+
+## 🚀 Results
+
+* Built regression models to predict **CO₂ emissions**
+* Identified key factors influencing agricultural emissions
+* Visualized regression fits & residuals for model evaluation
+
+---
+
+## 🌍 Applications
+
+* Sustainable agriculture planning
+* Food production carbon footprint estimation
+* Policy-making for climate-friendly farming
+
+---
