@@ -121,3 +121,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
+✨ *Let’s use AI & Data Science to build a greener planet!* 🌱
+
+---
