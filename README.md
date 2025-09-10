@@ -109,3 +109,9 @@ The datasets (`Agrofood_co2_emission.csv`, `Agrofood_co2_emission11.csv`) includ
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo, create a new branch, and submit a pull request.
+
+---
+
