@@ -115,3 +115,9 @@ Contributions are welcome! Feel free to fork this repo, create a new branch, and
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
